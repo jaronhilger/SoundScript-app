@@ -5,4 +5,4 @@ Open [SoundScript](https://jaronhilger.github.io/SoundScript-app/).
 This repository contains the built app only. Show PDFs, cues, and settings stay on your device.
 The app source is maintained separately.
 
-Source revision: 427f05ca610ad69a6d9281e1c7bf29e9622a79e9
+Source revision: 8d9c40470359e9503669a30226d1e95af5c2abe6
